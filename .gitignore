@@ -170,3 +170,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+.cursor/rules/hardcore.mdc
+pyrightconfig.json
+.vscode/settings.json
