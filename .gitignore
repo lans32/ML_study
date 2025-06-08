@@ -173,3 +173,8 @@ cython_debug/
 .cursor/rules/hardcore.mdc
 pyrightconfig.json
 .vscode/settings.json
+
+datasets/
+material/
+ml_env/
+
